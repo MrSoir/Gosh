@@ -1,0 +1,42 @@
+/home/bigdaddy/workspace_Qt/Gosh/pics/frame_add_scld.png
+/home/bigdaddy/workspace_Qt/Gosh/pics/frame_remove_scld.png
+designed by 'those-icons' from Flaticon
+
+/home/bigdaddy/workspace_Qt/Gosh/pics/compass_BD_scld.png
+designed by 'Gregor Cresnar' from Flaticon
+
+/home/bigdaddy/workspace_Qt/Gosh/pics/fullscreen_scld.png
+designed by 'becris' from Flaticon
+
+/home/bigdaddy/workspace_Qt/Gosh/pics/root_scld.png
+designed by 'http://www.freepik.com' from Flaticon
+
+
+frame_add_scld.png
+frame_remove_scld.png
+compass_BD_scld.png
+fullscreen_scld.png
+root_scld.png
+terminal.png
+new-folder_scld.png
+
+terminal:
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+/home/bigdaddy/workspace_Qt/Gosh/pics/terminal.png
+
+folder:
+<div>Icons made by <a href="https://www.flaticon.com/authors/elegant-themes" title="Elegant Themes">Elegant Themes</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+/home/bigdaddy/workspace_Qt/Gosh/pics/new-folder_scld.png
+
+This Software was created using the Qt5 Framework lincesed under GNU LGPLv3.
+For further notes read the Readme.txt in the installation folder.
+
+
+Help:
+<div>Icons made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
+
+Incognito:
+<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+incognito.png
+

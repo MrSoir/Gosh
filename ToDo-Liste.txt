@@ -1,0 +1,5 @@
+Gosh ToDo:
+
+4. memory management:
+    -> FileInfoBD -> DEstructor wird bereits wie gewollt aufgerufen. Ram-Verbrauch wird jedoch nicht kleiner nach DEstructor-Aufruf
+    -> woran liegts also, dass der Ram-Verbrauch nicht sinkt?
